@@ -1,6 +1,18 @@
 <!-- GitHub Profile README -->
 
-<h1 align="center">Hi 👋, I'm Nandhu Krishna</h1>
-<h3 align="center">Passionate Developer | Problem Solver | Tech Enthusiast</h3>
+<h1  align="center">Hi 👋, I'm Nandhu</h1>
+<h3  align="center">Passionate Developer | Tech Enthusiast</h3>
+
+- 🌱 I’m currently learning **Web development**
+
+- 💬 Ask me about **C++, Flutter**
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nkuv&layout=compact&theme=tokyonight&langs_count=8&hide_progress=false&v=2" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nkuv&theme=tokyonight" />
+</p>
 
 
